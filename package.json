@@ -1,0 +1,22 @@
+{
+  "name": "ddai-auto-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT License",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.5.0",
+    "https-proxy-agent": "^7.0.6",
+    "puppeteer": "^24.8.2",
+    "readline-sync": "^1.4.10",
+    "socks-proxy-agent": "^8.0.5",
+    "tunnel": "^0.0.6"
+  }
+}
